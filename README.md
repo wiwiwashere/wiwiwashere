@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋, I'm Winnie Lin
+- 🔭 I’m currently working on Advent of Code 2024
+- 🌱 I’m currently majoring computer science @UF
+- 🤔 New goals for 2025...
+    - ⚡ learn UI/UX
+    - ⚡ learn Rust
+    - ⚡ (maybe) learn lean
+    - ⚡ get an internship
+    - ⚡ hopefully become a TA (pls pls pls)
 
 <!--
 **wiwiwashere/wiwiwashere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
