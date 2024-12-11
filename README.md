@@ -5,6 +5,8 @@
     - ⚡ learn UI/UX
     - ⚡ learn Rust
     - ⚡ (maybe) learn lean
+    - ⚡ look at assembly & (maybe) learn it
+    - ⚡ look at model logic
     - ⚡ get an internship
     - ⚡ hopefully become a TA (pls pls pls)
 
