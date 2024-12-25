@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Winnie Lin
-- 🔭 I’m currently working on Advent of Code 2024 (will make my repo public once the current calendar is over)
+- 🔭 I’m currently finishing Advent of Code 2024 (been slacking a few days so i skipped a few, my repo is public now)
 - 🌱 I’m currently majoring computer science @UF
 - 🤔 New goals for 2025...
     - ⚡ learn UI/UX
