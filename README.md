@@ -3,8 +3,8 @@
 - 🌱 I’m currently majoring computer science @UF
 - 🤔 New goals for 2025...
     - ⚡ learn UI/UX
-    - ⚡ learn Rust
     - ⚡ (maybe) learn lean
+    - ⚡ (maybe) learn to build a website (HTML/CSS/Node(?)/React(?))
     - ⚡ look at assembly & (maybe) learn it
     - ⚡ look at model logic
     - ⚡ get an internship
